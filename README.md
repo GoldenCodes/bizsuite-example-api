@@ -1,5 +1,5 @@
 # 
-Example - API [http://www.bizsuite.com.br](BizSuite)  
+Example - API [BizSuite](http://www.bizsuite.com.br)  
 ==============================
 
 Requirements:
@@ -22,4 +22,4 @@ Acesse no seu navegador: [http://localhost:8888](http://localhost:8888)
 
 References: 
 -------
-[http://silex.sensiolabs.org/doc/2.0/](http://silex.sensiolabs.org/doc/2.0/)
+[https://silex.symfony.com/doc/2.0/](https://silex.symfony.com/doc/2.0/)
