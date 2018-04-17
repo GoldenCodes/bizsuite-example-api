@@ -17,7 +17,7 @@ $ cd bizsuite-example-api
 $ composer install
 $ php -S localhost:8888
 ```
-Acesse no seu navegador: [http://localhost:8888](http://localhost:8888)
+Access your browser: [http://localhost:8888](http://localhost:8888)
 
 References: 
 -------
