@@ -8,7 +8,7 @@ return [
     'url_site'      => 'bizhub.local:4210',
     'client_id'     => '9',
     'client_secret' => 'XuPWAMF0n11KYbPvGPhC5bRWkoeVX16k0P1DkcDq',
-    'redirect_uri'  => 'http://0.0.0.0:8888/oauth/callback',
+    'redirect_uri'  => 'http://localhost:8888/oauth/callback',
     'scopes' => [
         'catalog.category.read',
         'catalog.category.create',
