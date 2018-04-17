@@ -22,4 +22,5 @@ Acesse no seu navegador: [http://localhost:8888](http://localhost:8888)
 
 References: 
 -------
-[https://silex.symfony.com/doc/2.0/](https://silex.symfony.com/doc/2.0/)
+[API BizSuite](https://documenter.getpostman.com/view/2210616/bizsuite/713eGav)
+[Silex 2.0](https://silex.symfony.com/doc/2.0/)
