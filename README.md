@@ -5,7 +5,6 @@ Example - API [BizSuite](http://www.bizsuite.com.br)
 Requirements:
 -------
 - [PHP](http://www.php.net/) 7.0 or later.
-- [Sqlite](https://sqlite.org/index.html)
 - [Git](https://git-scm.com/downloads)
 - [Composer](https://getcomposer.org/)
 
